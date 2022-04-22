@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100%;
+	background-color: black;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 5rem;
+	font-family: 'Open Sans', sans-serif;
+}
