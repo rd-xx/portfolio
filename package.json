@@ -28,7 +28,7 @@
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.0.6",
+    "@biomejs/biome": "2.1.2",
     "@cloudflare/workers-types": "^4.20250705.0",
     "@types/country-flag-icons": "^1.2.2",
     "@types/node": "^24.0.10",
